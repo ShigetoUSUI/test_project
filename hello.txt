@@ -1,2 +1,2 @@
 Hello! github
-Branch_aを新しく作ってBranch_aで作業しています
+branch_aの作業を完了しました。
